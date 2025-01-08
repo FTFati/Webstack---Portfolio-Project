@@ -1,4 +1,4 @@
-const API_KEY = 'your_api_key_here';
+const API_KEY = 'f884b7ff00ec4c448873fed5048e444d';
 const BASE_URL = 'https://api.spoonacular.com/recipes/complexSearch';
 
 async function fetchRecipes(ingredient) {
